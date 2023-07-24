@@ -21,7 +21,6 @@ const Navbar = () => {
         </div>
       <div className="flex-none hidden lg:block md:bg-white">
         <ul className="menu menu-horizontal">
-          {/* Navbar menu content here */}
           <li><Link href="/info">Info</Link></li>
           <li><Link href="">CV</Link></li>
           <li><a href="mailto:cameronmichel@gmail.com?subject=Mail from Website">Contact</a></li>      
